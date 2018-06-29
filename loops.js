@@ -8,4 +8,5 @@ function forLoop(array){
       array console.log(`I am $ {i} strange loops`)
     }
   }
+  return array
 }
